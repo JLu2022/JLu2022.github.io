@@ -1,3 +1,4 @@
+theme: minima
 ![[Pasted image 20221201111543.png]]
 All materials are modified from https://www.youtube.com/watch?v=hQ4UNu1P2kw
 
