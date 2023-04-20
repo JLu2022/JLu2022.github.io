@@ -9,13 +9,13 @@ All materials are modified from https://www.youtube.com/watch?v=hQ4UNu1P2kw
 
 We are going to see a intuitive way to Lagrangian Multiplier. 
 
-If we have a curve, $$f(x,y)=x^{2}e^{y}y=C\ ,s.t.\ g(x,y)=x^{2}+y^{2}=4\tag{1}$$ where C is a constant. We would like to find the maximum C or the value of $f(x,y)$ while keeping the constraint that $(x,y)$ need to stay on $g(x,y)$.
+If we have a curve, $$f(x,y)=x^{2}e^{y}y=C\ ,s.t.\ g(x,y)=x^{2}+y^{2}=4\tag{1}$$ where C is a constant. We would like to find the maximum C or the value of $$f(x,y)$$ while keeping the constraint that $$(x,y)$$ need to stay on $$g(x,y)$$.
 
-One intuitive inference of the maximum value of C occurs when $f(x,y)$ tangent with $g(x,y)$. ![[Pasted image 20221201112230.png]]
-On the tangent point, the gradient of $f(x,y)$ and $g(x,y)$ should be parrell with each other. This is mathematically noted as $$\nabla f(x,y)=\lambda \nabla g(x,y)\tag{2}$$ 
-We can construct a function $$\mathcal{L}(x,y,\lambda)=f(x,y)-\lambda( g(x,y)-b) \tag{3} $$ , where b is actually the constant 4 in equation 1 we note it as a arbitrary constant $b$ .
+One intuitive inference of the maximum value of C occurs when $$f(x,y)$$ tangent with $$g(x,y)$$. ![[Pasted image 20221201112230.png]]
+On the tangent point, the gradient of $$f(x,y)$$ and $$g(x,y)$$ should be parrell with each other. This is mathematically noted as $$\nabla f(x,y)=\lambda \nabla g(x,y)\tag{2}$$ 
+We can construct a function $$\mathcal{L}(x,y,\lambda)=f(x,y)-\lambda( g(x,y)-b) \tag{3} $$ , where b is actually the constant 4 in equation 1 we note it as a arbitrary constant $$b$$ .
 
-By setting the gradient of $\mathcal{L}$ as 0 $\Rightarrow$ 
+By setting the gradient of $$\mathcal{L}$$ as 0 $$\Rightarrow$$ 
 $$ \nabla\mathcal{L}=\left\{
 \begin{aligned}
 \frac{\partial \mathcal{L}}{\partial x} \\
