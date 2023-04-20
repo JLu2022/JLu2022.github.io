@@ -56,4 +56,4 @@ $$\Rightarrow \frac{\partial\mathcal{L}}{\partial{b}}=\lambda=\frac{d{\mathcal{L
 $$\because f_{max}(b)=f(x^{*}(b),y^{*}(b))=\mathcal{L}(x^{*},y^{*},\lambda^{*})$$ 
 $$\therefore \lambda^{*}=\frac{df_{max}(b)}{d(b)}$$ 
 
-[Link to Another Repository](https://github.com/JLu2022/JLu2022.github.io/blob/ace8309f16ab3f9ba79c9958f2814be5f503df63/oo/oo.md)
+[Link to Another Repository](https://jlu2022.github.io/oo)
