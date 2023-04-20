@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
-title: JLu's HomePage
-description: Reading, Improving.
+---
+layout: post
+title: "My First Post"
+date: 2022-05-01 12:00:00 -0400
+categories: jekyll update
+---
