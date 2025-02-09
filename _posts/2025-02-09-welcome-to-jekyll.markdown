@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyllmarkdown: kramdown
+kramdown:
+  math_engine: mathjax!"
 date:   2025-02-09 23:26:11 +0000
 categories: jekyll update
 ---
